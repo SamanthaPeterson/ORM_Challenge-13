@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../__**Coding Boot Camp refs/13 Object Relational Mapping orm Ecommerce Back End/e-commerce-master/config"
+		},
+		{
+			"path": "../../__**Coding Boot Camp refs/13 Object Relational Mapping orm Ecommerce Back End/e-commerce-master/db"
+		},
+		{
+			"path": "../../__**Coding Boot Camp refs/13 Object Relational Mapping orm Ecommerce Back End/e-commerce-master/routes"
+		},
+		{
+			"path": "../../__**Coding Boot Camp refs/13 Object Relational Mapping orm Ecommerce Back End/e-commerce-master/seeds"
+		},
+		{
+			"path": "../../__**Coding Boot Camp refs/13 Object Relational Mapping orm Ecommerce Back End/e-commerce-master/models"
+		}
+	],
+	"settings": {}
+}
