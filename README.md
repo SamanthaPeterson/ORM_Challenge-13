@@ -6,29 +6,42 @@
 <p align="center">
 
 
-  <h1 align="center">ORM_Challenge-13</h1>
+  <h1 align="center">MVC Tech Blog</h1>
 
   <p align="center">
-    ORM_Challenge-13 - Created by Samantha Peterson
+    NoSQL MongoDB Social network API - Created by Samantha Peterson
     <br />
     <a href="https://github.com/SamanthaPeterson/NoSQL-18"><strong>Check it out »</strong></a>
     <br />
     <br />
     
    
+# Description
+
+This application allows various different users to create an account and post blog posts. Users can also edit and delete their own posts. It also allows them to comment on posts from other users.
+
+# Screenshot
+![webpage screenshot]
+
+# Application Link
+
+Deployed link here 
+
+
+
 ## Brief Summary 
 
-ORM_Challenge-13
- https://youtu.be/_IWLBBBxt3o
+Tech Blog
+ 
 
 ## Screenshot
 <img width=" ">
 
 
 
-ORM_Challenge-13
-Click this link to view the project https://github.com/SamanthaPeterson/NoSQL-18
- click here to watch the walk through video https://youtu.be/_IWLBBBxt3o
+
+Click this link to view the project 
+ click here to watch the walk through video 
 
    
   </p>
@@ -69,12 +82,13 @@ Click this link to view the project https://github.com/SamanthaPeterson/NoSQL-18
 
 ### Built With
 
-* [Jest](https://getbootstrap.com/)
-* [Inquirer](https://www.w3schools.com/css/css_intro.asp)
+* [MongoDB](https://getbootstrap.com/)
+* [Mongoose](https://www.w3schools.com/css/css_intro.asp)
 * [Javascript](https://expressjs.com/)
-* [SQL](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [Insomnia](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [Heroku](https://openweathermap.org/api)
 * [Visual Studio Code](https://code.visualstudio.com/)
-ORM_Challenge-13
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -82,16 +96,15 @@ ORM_Challenge-13
 
 ### Installation
 
-1. Click on the ORM_Challenge-13
-   ```sh
-    https://Object-Oriented Programming Challenge: Team Profile Generator
-    
-https://youtu.be/_IWLBBBxt3o
-   ```
-2. Enter cObject-Oriented Programming Challenge: Team Profile Generator
-Step 2 ORM_Challenge-13
+1. Click on the link below or enter it in your browser
 
-ORM_Challenge-13
+   link
+    
+  link
+
+2. Tech Blog
+
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage and License Agreement
@@ -142,15 +155,18 @@ https://photographersama.myportfolio.com/
 Email photographer.samantha@live.com
 
 
-Project Link: [https://github.com/SamanthaPeterson/Server_Side_API_Weather_Dashboard](https://github.com/SamanthaPeterson/Server_Side_API_Weather_Dashboard)
-ORM_Challenge-13
+ 
+
+
+Project Link: [https://github.com/SamanthaPeterson/](https://github.com/SamanthaPeterson/)
+
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [sql](https://getbootstrap.com/)
+
 * [Javascript](https://sequelize.org/)
-ORM_Challenge-13
+
 Thank you to my TA and classmate for helping me to do some trouble shooting during office hours. 
 And thank you as well to my tutor for also helping me to better organize my files and troubleshoot. 
