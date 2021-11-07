@@ -1,4 +1,4 @@
-# ORM_Challenge-13
+13. Object-Relational Mapping (ORM) Challenge: E-commerce Back End
 
 
 <!-- PROJECT LOGO -->
@@ -6,10 +6,10 @@
 <p align="center">
 
 
-  <h1 align="center">MVC Tech Blog</h1>
+  <h1 align="center">13. Object-Relational Mapping (ORM) Challenge: E-commerce Back End</h1>
 
   <p align="center">
-    NoSQL MongoDB Social network API - Created by Samantha Peterson
+    13. Object-Relational Mapping (ORM) Challenge: E-commerce Back End - Created by Samantha Peterson
     <br />
     <a href="https://github.com/SamanthaPeterson/NoSQL-18"><strong>Check it out »</strong></a>
     <br />
@@ -31,7 +31,7 @@ Deployed link here
 
 ## Brief Summary 
 
-Tech Blog
+13. Object-Relational Mapping (ORM) Challenge: E-commerce Back End
  
 
 ## Screenshot
