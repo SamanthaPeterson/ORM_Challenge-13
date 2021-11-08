@@ -7,7 +7,7 @@
   <h1 align="center">13. Object-Relational Mapping (ORM) Challenge: E-commerce Back End</h1>
 
   <p align="center">
-    13. Object-Relational Mapping (ORM) Challenge: E-commerce Back End - Created by Samantha Peterson
+   - Created by Samantha Peterson
     <br />
     <a href="https://github.com/SamanthaPeterson/NoSQL-18"><strong>Check it out »</strong></a>
     <br />
