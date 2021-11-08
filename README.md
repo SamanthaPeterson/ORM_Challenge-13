@@ -20,8 +20,13 @@
 
 This application allows various different users to create an account and post blog posts. Users can also edit and delete their own posts. It also allows them to comment on posts from other users.
 
-# Screenshot
-![webpage screenshot]
+# Screenshot![13-orm-homework-demo-01](https://user-images.githubusercontent.com/85209802/140808449-a5722210-0b6c-441d-90f3-f08102a7afe3.gif)
+![13-orm-hom![13-orm-homework-demo-03](https://user-images.githubusercontent.com/85209802/140808554-3116cd45-18e9-441c-a9ef-e1bc48aa67f7.gif)
+ework-demo-03 (1)](https://user-images.githubusercontent.com/85209802/140808543-2aae0e87-e570-43e3-a19b-6a9ca35c9a9e.gif)
+
+![webpage ![13-orm-homework-demo-02 (1)](https://user-images.githubusercontent.com/85209802/140808513-497ed1f9-6280-43a1-b92b-0a37f4dd4f86.gif)
+scree![13-orm-homework-demo-02](https://user-images.githubusercontent.com/85209802/140808528-cce6363e-55ea-46fd-9796-8ee89d5bdb0e.gif)
+nshot]
 
 # Application Link
 
