@@ -46,15 +46,6 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Brief Summary 
 
-#Acceptance Criteria
- 
-
-## Screenshot
-<img width=" ">
-
-
-
-
 Click this link to view the project 
  click here to watch the walk through video 
 
@@ -111,13 +102,11 @@ Click this link to view the project
 
 ### Installation
 
-1. Click on the link below or enter it in your browser
+1. Click on the project link, download the project 
 
-   link
-    
-  link
+   
 
-2. Tech Blog
+2. Run NPM I and npm start
 
 
 
