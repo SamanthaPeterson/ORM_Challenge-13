@@ -14,23 +14,39 @@
     <br />
     
    
-# Description
+# User Story
 
-This application allows various different users to create an account and post blog posts. Users can also edit and delete their own posts. It also allows them to comment on posts from other users.
-
+AS A manager at an internet retail company
+I WANT a back end for my e-commerce website that uses the latest technologies
+SO THAT my company can compete with other e-commerce companies
+(Trilogy BC project requirements)
+  
 # Screenshot![13-orm-homework-demo-01](https://user-images.githubusercontent.com/85209802/140808449-a5722210-0b6c-441d-90f3-f08102a7afe3.gif)
 ![13-orm-homework-demo-03](https://user-images.githubusercontent.com/85209802/140808554-3116cd45-18e9-441c-a9ef-e1bc48aa67f7.gif)
 
 
 # Application Link
 
-Deployed link here 
-
-
+https://github.com/SamanthaPeterson/ORM_Challenge-13
+  
+  Link to walkthrough video -
+  
+ GIVEN a functional Express.js API
+WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
+THEN I am able to connect to a database using Sequelize
+WHEN I enter schema and seed commands
+THEN a development database is created and is seeded with test data
+WHEN I enter the command to invoke the application
+THEN my server is started and the Sequelize models are synced to the MySQL database
+WHEN I open API GET routes in Insomnia Core for categories, products, or tags
+THEN the data for each of these routes is displayed in a formatted JSON
+WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
+THEN I am able to successfully create, update, and delete data in my database
+(Trilogy BC project requirements)
 
 ## Brief Summary 
 
-13. Object-Relational Mapping (ORM) Challenge: E-commerce Back End
+#Acceptance Criteria
  
 
 ## Screenshot
@@ -81,12 +97,12 @@ Click this link to view the project
 
 ### Built With
 
-* [MongoDB](https://getbootstrap.com/)
-* [Mongoose](https://www.w3schools.com/css/css_intro.asp)
+* [MySQL2](https://getbootstrap.com/)
+* [Sequelize ](https://www.w3schools.com/css/css_intro.asp)
 * [Javascript](https://expressjs.com/)
 * [Insomnia](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [Heroku](https://openweathermap.org/api)
 * [Visual Studio Code](https://code.visualstudio.com/)
+
 
 
 <!-- GETTING STARTED -->
