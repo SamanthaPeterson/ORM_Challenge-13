@@ -72,9 +72,10 @@ router.put('/:id', (req, res) => {
       }
     })
     .then(dbTagData => {
+      console.log (dbTagData)
       if (!dbTagData[0]) {
         res.status(404).json({
-          message: 'No tag found with this id'
+          message: 'No data to update'
         });
         return;
       }
