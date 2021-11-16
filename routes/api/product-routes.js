@@ -106,6 +106,7 @@ router.put('/:id', (req, res) => {
       },
     })
     .then((product) => {
+      console.log (product)
       // find all associated tags from ProductTag
       return ProductTag.findAll({
         where: {
@@ -114,6 +115,7 @@ router.put('/:id', (req, res) => {
       });
     })
     .then((productTags) => {
+      console.log (productTags)
       // get list of current tag_ids
       const productTagIds = productTags.map(({
         tag_id
@@ -148,7 +150,7 @@ router.put('/:id', (req, res) => {
     })
     .then((updatedProductTags) => res.json(updatedProductTags))
     .catch((err) => {
-      // console.log(err);
+     console.log(err);
       res.status(400).json(err);
     });
 });
