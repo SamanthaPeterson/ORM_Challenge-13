@@ -71,15 +71,15 @@ router.put('/:id', (req, res) => {
         id: req.params.id
       }
     })
-    .then(dbTagData => {
-      console.log (dbTagData)
-      if (!dbTagData[0]) {
+    .then(dbTagId=> {
+      console.log(dbTagId)
+      if (!dbTagId[0]) {
         res.status(404).json({
           message: 'No data to update'
         });
         return;
       }
-      res.json(dbTagData);
+      res.json(dbTagId);
     })
     .catch(err => {
       console.log(err);
