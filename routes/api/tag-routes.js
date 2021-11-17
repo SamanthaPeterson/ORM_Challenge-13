@@ -67,19 +67,16 @@ router.post('/', (req, res) => {
 router.put('/:id', (req, res) => {
   // update a tag's name by its `id` value
   Tag.update(req.body, {
-      where: {
-        id: req.params.id
-      }
-    })
-    .then(dbTagId=> {
-      console.log(dbTagId)
-      if (!dbTagId[0]) {
-        res.status(404).json({
-          message: 'No data to update'
-        });
+    where: {
+      id: req.params.id
+    }
+  })
+    .then(dbCategoryData => {
+      if (!dbCategoryData[0]) {
+        res.status(404).json({ message: 'No tag found with this particular id' });
         return;
       }
-      res.json(dbTagId);
+      res.json(dbCategoryData);
     })
     .catch(err => {
       console.log(err);
